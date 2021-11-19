@@ -34,3 +34,5 @@
 <a href="https://github.com/chintan2212">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chintan2212&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
 </a>
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=chintan2212&theme=dark)
