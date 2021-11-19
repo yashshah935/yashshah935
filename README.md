@@ -25,17 +25,14 @@
 <a href="https://github.com/yashshah935">
 <img src="https://raw.githubusercontent.com/gist/rugvedkoshiya/1e72f4d6f832889fa45c9db52c7c6525/raw/9d7d33b2434d82dfe5e7749de93758cce3d485f9/git_48.svg" alt="Git" width="48" height="48"/>
  </a>
-<a href="https://github.com/yashshah935">
-<a href="https://github.com/yashshah935">
-</a>
 
-</a>
+
 </p>  
 </a>
 <br>
 <a href="https://github.com/yashshah935">
 <a href="https://github.com/yashshah935">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashshah935&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashshah935&show_icons=true&theme=dark&line_height=27" alt="yash's github stats"/>
 </a>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=chintan2212&theme=dark)
