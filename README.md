@@ -35,7 +35,7 @@
 <br>
 <a href="https://github.com/yashshah935">
 <a href="https://github.com/yashshah935">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=chintan2212&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashshah935&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
 </a>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=chintan2212&theme=dark)
