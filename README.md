@@ -10,7 +10,7 @@
  </a>
 <a href="https://github.com/yashshah935">
 <a href="https://github.com/yashshah935">
-<img src="https://www.google.com/search?q=angular+svg+image+link&rlz=1C1GCEB_enIN887IN887&sxsrf=AOaemvLqeLVq9PWq9N0Pe3FMwLAbI7IP0Q:1637328766498&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjsiIf8xKT0AhX8wjgGHc-7BIIQ_AUoAXoECAEQAw&biw=1384&bih=674&dpr=1.39#imgrc=ViRJBF1gUOEToM" alt="CSS" width="48" height="48"/>
+<img src="https://raw.githubusercontent.com/gist/rugvedkoshiya/1e72f4d6f832889fa45c9db52c7c6525/raw/9d7d33b2434d82dfe5e7749de93758cce3d485f9/angular_48_.svg" alt="CSS" width="48" height="48"/>
  </a>
 <a href="https://github.com/yashshah935">
 <a href="https://github.com/yashshah935">
