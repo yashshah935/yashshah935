@@ -1,11 +1,3 @@
-< script src="https://platform.linkedin.com/badges/js/profile.js"  type="text/javascript"></script >
- 
-
-<h3>Contact me ON LinkedIn</h3>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="yash-shah-9670bb1a0" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/yash-shah-9670bb1a0?trk=profile-badge">YASH SHAH</a></div>
-              
-<br/>
-
 <h4> Making my way through: </h4>
 <p>
 <a href="https://github.com/yashshah935">
@@ -44,3 +36,8 @@
 </a>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=chintan2212&theme=dark)
+ <br/>
+ <h3>Contact me ON LinkedIn</h3>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="yash-shah-9670bb1a0" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/yash-shah-9670bb1a0?trk=profile-badge">YASH SHAH</a></div>
+              
+<br/>
