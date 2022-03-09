@@ -1,7 +1,7 @@
 <h1> Hey , I,am Yash Shah</h1>
-My Portfolio : <a href="https://yashshah935.netlify.app/">Show Me</a> 
+My Portfolio : <a href="https://yashshah935.netlify.app/" target="_blank">Show Me</a> 
 <br/>
-Coding Experience : <a href="https://linktr.ee/yashshah935">Show Me</a> 
+Coding Experience : <a href="https://linktr.ee/yashshah935" target="_blank">Show Me</a> 
 
 
 
