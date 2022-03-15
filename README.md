@@ -56,8 +56,6 @@ Coding Experience : <a href="https://linktr.ee/yashshah935" target="_blank">Show
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yashshah935&theme=dark)
  <br/>
-<br/> 
- ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=yashshah935&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
  <h3>Contact me ON LinkedIn</h3>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="yash-shah-9670bb1a0" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/yash-shah-9670bb1a0?trk=profile-badge">YASH SHAH</a></div>
