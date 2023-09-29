@@ -54,7 +54,7 @@ Coding Experience : <a href="https://linktr.ee/yashshah935" target="_blank">Show
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashshah935&show_icons=true&theme=dark&line_height=27" alt="yash's github stats"/>
 </a>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yashshah935&theme=dark)
+<!---[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yashshah935&theme=dark&border_radius=4.9&mode=weekly)](https://git.io/streak-stats)--->
  <br/>         
 <br/>
  
